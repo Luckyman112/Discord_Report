@@ -1,2 +1,5 @@
 disnake
 aiosqlite
+gspread
+gspread-formatting
+oauth2client
